@@ -88,4 +88,4 @@ MIT
 
 ## Credits
 
-Created by [Fakeeh Group Development Team)
+Created by [Fakeeh Group Development Team]
